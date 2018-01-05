@@ -1,4 +1,5 @@
 # PAL-Customer-Welcome-Letter
+![alt text](https://github.com/Jahdevi/PAL-Customer-Welcome-Letter/blob/master/beautiful-clouds.png)
 ## LAPTOP   EXPECTATIONS
 Below   is   a   summary   of   what   you   will   need   to   install   on   your   laptop:
 * Pivotal   Cloud   Foundry   CLI   (latest   version)
